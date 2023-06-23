@@ -5,4 +5,8 @@ class aryan
 		//code
 	}
 
+	public void m2 () 
+	{
+		//code2
+	}
 }
